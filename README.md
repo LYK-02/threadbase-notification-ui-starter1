@@ -36,3 +36,4 @@ curl -X POST http://localhost:3001/api/notifications/test \
 ```
 
 Or use Thunder Client / Postman. Badge should increment. Dropdown should open. Click a notification — badge should drop **before** the API responds.
+# threadbase-notification-ui-starter1
